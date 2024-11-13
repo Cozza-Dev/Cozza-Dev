@@ -4,7 +4,7 @@
 
 Game Development
 -----------------
-I'm a game developer currently working with unity GDOT and others!!
+I'm a MidLevel game developer currently working with unity GDOT and others!!
 --------------------------------------------------------------------
 * 🌍  I'm based in Scotland
 * ✉️  You can contact me at [drownedstudios1@gmail.com](mailto:drownedstudios1@gmail.com)
