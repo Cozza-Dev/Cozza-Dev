@@ -24,14 +24,14 @@ I'm a game developer currently working with unity GDOT and others!!
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Cozza-Dev&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=4" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Cozza-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cozza-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Cozza-Dev&no-bg=true&no-frame=true&margin-w=1" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-![ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7](https://github.com/user-attachments/assets/881ed1b5-60a0-493e-a422-32d033c3701e)
+![ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7](https://github.com/user-attachments/assets/5d9f90f1-f0db-4015-a0fa-1a3cfbee04ce)
 
 
 ###
@@ -42,6 +42,7 @@ I'm a game developer currently working with unity GDOT and others!!
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -58,11 +59,10 @@ I'm a game developer currently working with unity GDOT and others!!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
+###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Cozza-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
