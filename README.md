@@ -60,9 +60,10 @@ I'm a game developer currently working with unity GDOT and other!!
 </div>
 
 
-###
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cozza-Dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
