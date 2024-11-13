@@ -1,16 +1,20 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+There!+;+I'm+Cozza!;" />
 </h1>
+
 Game Development
-----------------
-
+-----------------
 I'm a game developer currently working with unity GDOT and others!!
-
+--------------------------------------------------------------------
 * 🌍  I'm based in Scotland
 * ✉️  You can contact me at [drownedstudios1@gmail.com](mailto:drownedstudios1@gmail.com)
 * 🚀  I'm currently working on [The Banshees Call](http://github.com/Cozza-Dev/The-Banshees-Call)
 * 🧠  I'm learning Unity Engine, C#
 * ⚡  Im a Fighter
+
+
+
+
 
 
 <h2 align="left"></h2>
@@ -22,7 +26,8 @@ I'm a game developer currently working with unity GDOT and others!!
 </div>
 
 ###
-
+STATES
+------
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cozza-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cozza-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
