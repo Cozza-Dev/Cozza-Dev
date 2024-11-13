@@ -17,9 +17,8 @@ I'm a game developer currently working with unity GDOT and other!!
 
 ###
 
-<div align="center">
-  <img height="" src="https://wallpapers.com/images/hd/1200x480-neon-purple-mountains-56wuvoleyut5z0eb.jpg"  />
-</div>
+![ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7](https://github.com/user-attachments/assets/d94902d9-52fb-45d9-b36c-26ebcd9e8a50)
+
 
 ###
 
