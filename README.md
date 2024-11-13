@@ -62,16 +62,6 @@ I'm a game developer currently working with unity GDOT and other!!
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cozza-Dev/Cozza-Dev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
