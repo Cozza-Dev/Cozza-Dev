@@ -2,13 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+There!+;+I'm+Cozza!;" />
 </h1>
 
-<div align="center">
-  <img height="" src="https://i.pinimg.com/originals/cf/a7/01/cfa701bc665fbad2b82d6fbbf7ddc7cc.png"  />
-</div>
-
-
 Game Development         
 ------------------
+![5474806](https://github.com/user-attachments/assets/12f6c644-e6d4-4b7e-9e75-50911da50e10)
+![5969347](https://github.com/user-attachments/assets/171a3c99-a241-4ed4-8716-163f2eeffb45)
+
+
+
+
+
 -------------------
 I'm a MidLevel game developer currently working with unity GDOT and others!!
 --------------------------------------------------------------------
@@ -47,15 +49,6 @@ I'm a MidLevel game developer currently working with unity GDOT and others!!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
