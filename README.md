@@ -1,9 +1,15 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+There!+;+I'm+Cozza!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=HELLO+There!+;+I'm+Cozza!;" />
 </h1>
 
-Game Development
------------------
+<div align="center">
+  <img height="" src="https://i.pinimg.com/originals/cf/a7/01/cfa701bc665fbad2b82d6fbbf7ddc7cc.png"  />
+</div>
+
+
+Game Development         
+------------------
+-------------------
 I'm a MidLevel game developer currently working with unity GDOT and others!!
 --------------------------------------------------------------------
 * 🌍  I'm based in Scotland
@@ -13,21 +19,9 @@ I'm a MidLevel game developer currently working with unity GDOT and others!!
 * ⚡  Im a Fighter
 
 
-
-
-
-
 <h2 align="left"></h2>
 
-###
 
-<div align="center">
-  <img height="" src="https://wallpapers.com/images/hd/1200x480-neon-purple-mountains-56wuvoleyut5z0eb.jpg"  />
-</div>
-
-###
-STATES
-------
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cozza-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cozza-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
@@ -36,8 +30,9 @@ STATES
 
 ###
 
-![ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7](https://github.com/user-attachments/assets/5d9f90f1-f0db-4015-a0fa-1a3cfbee04ce)
-
+<div align="center">
+  <img height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRqazM2cy0zNmU3MzZlZC1hM2Y1LTRlYWQtYmM1YS0yMDU1YWQ3OWQ4YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pgxwYJcrj6fKZmowAdX5HbdvaHWItqxLpSim41_sgC4"  />
+</div>
 
 ###
 
@@ -62,7 +57,13 @@ STATES
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
