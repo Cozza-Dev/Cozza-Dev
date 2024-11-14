@@ -12,7 +12,7 @@ Game Development
 
 
 -------------------
-I'm a MidLevel game developer currently working with unity GDOT and others!!
+I am a mid-level game developer familiar in C#, Python, HTML and other programming languages. Currently focusing on Unity and GDScript, I am excited about the possibility of creating realistic worlds in games and improving my development workflow. As someone who is constantly looking for new tools and methods, I seek to deliver fun and entertaining gaming content.
 --------------------------------------------------------------------
 * 🌍  I'm based in Scotland
 * ✉️  You can contact me at [drownedstudios1@gmail.com](mailto:drownedstudios1@gmail.com)
