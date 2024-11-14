@@ -17,7 +17,7 @@ I am a mid-level game developer familiar in C#, Python, HTML and other programmi
 * 🌍  I'm based in Scotland
 * ✉️  You can contact me at [drownedstudios1@gmail.com](mailto:drownedstudios1@gmail.com)
 * 🚀  I'm currently working on [The Banshees Call](http://github.com/Cozza-Dev/The-Banshees-Call)
-* 🧠  I'm learning Unity Engine, C#
+* 🧠  I'm learning Unity Engine, 
 * ⚡  Im a Fighter
 
 
