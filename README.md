@@ -8,18 +8,6 @@ Game Development
 ![5969347](https://github.com/user-attachments/assets/171a3c99-a241-4ed4-8716-163f2eeffb45)
 
 
-
-
-
--------------------
-I am a mid-level game developer familiar in C#, Python, HTML and other programming languages. Currently focusing on Unity and GDScript, I am excited about the possibility of creating realistic worlds in games and improving my development workflow. As someone who is constantly looking for new tools and methods, I seek to deliver fun and entertaining gaming content.
---------------------------------------------------------------------
-* 🌍  I'm based in Scotland
-* ✉️  You can contact me at [drownedstudios1@gmail.com](mailto:drownedstudios1@gmail.com)
-* 🧠  I'm learning Unity Engine, And web Devleopment
-* ⚡  I Enjoy long Walks
-
-
 <h2 align="left"></h2>
 
 
