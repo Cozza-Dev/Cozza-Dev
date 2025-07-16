@@ -40,7 +40,6 @@ Game Development
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
 
